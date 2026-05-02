@@ -20,6 +20,7 @@ def game(player_name):
             print("Too high! Try again❎")
 
     print("Congratulations! You guessed the number! 🎉")
+    print(f"It took you {attempts} attempts to guess the number.")
 
     # Record the score in a text file
     with open("scores.txt", "a") as file:
