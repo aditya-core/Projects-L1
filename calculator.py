@@ -67,7 +67,7 @@ while True:
 
 
 
-
+#Calculator v2.0 with new features : Power and Modulus operators and also a history of calculations
 
 # ========== NEW FEATURE 1 & 2: Power and Modulo operators ==========
 def calculate(a, op, b):
@@ -158,7 +158,7 @@ while True:
 
 
 
-
+#trial code for functions and error handling
 
 # def add():
 #     if operator=="+":
