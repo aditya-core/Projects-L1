@@ -5,3 +5,5 @@ Date - 21 April 2026
 **Primary Target -- 25 small projects + 8 medium projects + 2 major projects**
 </h1>
 (Coding in Python)
+
+There is a fun in rising when everyone thinks you have fallen ..even your parents...sad but true ...lets do it
